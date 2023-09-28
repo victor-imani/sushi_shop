@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:sushi_shop/components/button.dart';
-import 'package:sushi_shop/pages/menu_page.dart';
+
 
 class IntroPage extends StatelessWidget {
   const IntroPage({super.key});
