@@ -194,7 +194,7 @@ class _MenuPageState extends State<MenuPage> {
                 ),
 
                 // heart
-                Icon(
+                const Icon(
                   Icons.favorite_outline,
                   color: Colors.grey,
                   size: 28,
